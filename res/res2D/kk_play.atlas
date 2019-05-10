@@ -1,0 +1,195 @@
+{
+    "frames": {
+        "CXK1.png": {
+            "frame": {
+                "h": 96,
+                "idx": 0,
+                "w": 60,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 17,
+                "y": 0
+            }
+        },
+        "CXK10.png": {
+            "frame": {
+                "h": 73,
+                "idx": 0,
+                "w": 67,
+                "x": 0,
+                "y": 97
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 23
+            }
+        },
+        "CXK11.png": {
+            "frame": {
+                "h": 81,
+                "idx": 0,
+                "w": 61,
+                "x": 61,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 15
+            }
+        },
+        "CXK2.png": {
+            "frame": {
+                "h": 85,
+                "idx": 0,
+                "w": 46,
+                "x": 0,
+                "y": 171
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 24,
+                "y": 10
+            }
+        },
+        "CXK3.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 39,
+                "x": 47,
+                "y": 171
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 35,
+                "y": 18
+            }
+        },
+        "CXK4.png": {
+            "frame": {
+                "h": 82,
+                "idx": 0,
+                "w": 49,
+                "x": 68,
+                "y": 82
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 34,
+                "y": 14
+            }
+        },
+        "CXK5.png": {
+            "frame": {
+                "h": 88,
+                "idx": 0,
+                "w": 65,
+                "x": 87,
+                "y": 165
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 25,
+                "y": 8
+            }
+        },
+        "CXK6.png": {
+            "frame": {
+                "h": 88,
+                "idx": 0,
+                "w": 93,
+                "x": 123,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 8
+            }
+        },
+        "CXK7.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 90,
+                "x": 153,
+                "y": 89
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 10
+            }
+        },
+        "CXK8.png": {
+            "frame": {
+                "h": 84,
+                "idx": 0,
+                "w": 53,
+                "x": 217,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 22,
+                "y": 12
+            }
+        },
+        "CXK9.png": {
+            "frame": {
+                "h": 78,
+                "idx": 0,
+                "w": 66,
+                "x": 153,
+                "y": 176
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 18
+            }
+        }
+    },
+    "meta": {
+        "image": "kk_play.png",
+        "prefix": "kk_play/"
+    }
+}

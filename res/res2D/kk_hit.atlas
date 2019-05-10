@@ -1,0 +1,59 @@
+{
+    "frames": {
+        "CXK_hit1.png": {
+            "frame": {
+                "h": 86,
+                "idx": 0,
+                "w": 41,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 15,
+                "y": 10
+            }
+        },
+        "CXK_hit2.png": {
+            "frame": {
+                "h": 92,
+                "idx": 0,
+                "w": 35,
+                "x": 42,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 18,
+                "y": 4
+            }
+        },
+        "CXK_hit3.png": {
+            "frame": {
+                "h": 59,
+                "idx": 0,
+                "w": 64,
+                "x": 78,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 96,
+                "w": 96
+            },
+            "spriteSourceSize": {
+                "x": 13,
+                "y": 37
+            }
+        }
+    },
+    "meta": {
+        "image": "kk_hit.png",
+        "prefix": "kk_hit/"
+    }
+}
